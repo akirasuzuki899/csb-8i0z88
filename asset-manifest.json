@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akirasuzuki899.github.io/csb-8i0z88/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/main.f7619e3b.chunk.js",
+    "main.js.map": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/main.f7619e3b.chunk.js.map",
+    "runtime-main.js": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/runtime-main.1684ae3d.js",
+    "runtime-main.js.map": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/runtime-main.1684ae3d.js.map",
+    "static/js/2.b6b3169b.chunk.js": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/2.b6b3169b.chunk.js",
+    "static/js/2.b6b3169b.chunk.js.map": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/2.b6b3169b.chunk.js.map",
+    "index.html": "https://akirasuzuki899.github.io/csb-8i0z88/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://akirasuzuki899.github.io/csb-8i0z88/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b6b3169b.chunk.js.LICENSE.txt": "https://akirasuzuki899.github.io/csb-8i0z88/static/js/2.b6b3169b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1684ae3d.js",
+    "static/js/2.b6b3169b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f7619e3b.chunk.js"
+  ]
+}

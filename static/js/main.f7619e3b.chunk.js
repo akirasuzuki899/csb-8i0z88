@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-todo"]=this["webpackJsonpreact-todo"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var o=c(1),n=c(3),r=(c(12),c(0));function s(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"Hello CodeSandbox"}),Object(r.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var i=document.getElementById("root");Object(n.createRoot)(i).render(Object(r.jsx)(o.StrictMode,{children:Object(r.jsx)(s,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.f7619e3b.chunk.js.map
